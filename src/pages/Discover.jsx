@@ -23,7 +23,7 @@ const Discover = () => {
         <div className="flex flex-col">
             <div className="w-full flex justify-between items-center sm:flex-row flex-col mt-4 mb-4">
                 <h2 className="font-bold text-3xl text-white">
-                    Discover{genreTitle}
+                    Discover {genreTitle}
                 </h2>
                 <select
                     onChange={() => {}}
